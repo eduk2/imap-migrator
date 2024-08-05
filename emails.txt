@@ -1,0 +1,3 @@
+debug=false
+imap.example.com,source@example.com,source_password;imap.another.com,destination@another.com,destination_password
+imap.example2.com,source@example2.com,source_password2;imap.another2.com,destination@another2.com,destination_password2
